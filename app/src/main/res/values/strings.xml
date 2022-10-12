@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="notes">My Notes</string>
+    <string name="notes_title">Jegyzet cím</string>
+    <string name="notes_sub_title">Jegyzet alcím</string>
+    <string name="notes_desc">Jegyzet..</string>
+    <string name="web_url">Web URL</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Vissza</string>
+    <string name="storage_permission_text">Az alkalmazásnak engedélyekre van szüksége.</string>
+    <string name="search">Keresés</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main2">MainActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
